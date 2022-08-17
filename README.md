@@ -8,6 +8,11 @@ CleanXcode
 <br>
 To run the bash script, change directory to where the script is located and simply run the following command in terminal: </p>
 <br>
+
 ```
 bash CleanXcode.sh
 ```
+
+## Resources
+- [CodeWithChris](https://www.youtube.com/watch?v=13QubFwmDoc&t=133s)
+- [YoungSeon.Ahn](https://lovemewithoutall.github.io/it/xcode-clean-up/)
